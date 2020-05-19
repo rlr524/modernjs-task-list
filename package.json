@@ -1,0 +1,22 @@
+{
+  "name": "modernjs-task-list",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlr524/modernjs-task-list.git"
+  },
+  "author": "Rob Ranf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlr524/modernjs-task-list/issues"
+  },
+  "homepage": "https://github.com/rlr524/modernjs-task-list#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
